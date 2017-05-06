@@ -1,5 +1,7 @@
 # minimist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/minimist.svg)](https://greenkeeper.io/)
+
 parse argument options
 
 This module is the guts of optimist's argument parser without all the
